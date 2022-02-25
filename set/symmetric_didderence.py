@@ -1,0 +1,8 @@
+a = input()
+b = input().split()
+b = set(b)
+c = input()
+d = input().split()
+d = set(d)
+r =b.symmetric_difference(d)
+print ("\n".join(sorted(r,key=int)))
