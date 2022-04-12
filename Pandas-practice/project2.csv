@@ -1,0 +1,17 @@
+date,day,atm,transtation_no,account_no,type,card_type,status,before_available_ammount,ammount,after_available_amount,repeipt
+9/4/2017,tue,central_bank,#5839463689391619,XXX XXXX XXXX 3864,saveings,rupuy,deposit,477533,52421,529954,yes
+14/8/2017,tue,unioun_bank,#348AA593172218774,XXX XXXX XXXX 1790,current,rupuy,deposit,292297,91568,383865,no
+1/1/2011,sun,central_bank,#6399139757538591,XXX XXXX XXXX 3751,current,rupuy,deposit,754873,97364,852237,yes
+8/8/2017,wed,sbi_bank,#7A85972197531156,XXX XXXX XXXX 1906,current,master,deposit,226051,82755,308806,yes
+22/4/2014,fri,unioun_bank,#98765A17A5883466,XXX XXXX XXXX 9372,saveings,master,withdraw,286635,21842,264793,yes
+12/4/2003,mon,central_bank,#AA3515575814A57259,XXX XXXX XXXX 7850,current,visa,withdraw,138888,60175,78713,yes
+14/4/2012,mon,idfc_bank,#7518627198249962,XXX XXXX XXXX 1662,saveings,master,withdraw,502122,70133,431989,no
+19/11/2009,sat,idfc_bank,#45A32998864A82663,XXX XXXX XXXX 4339,current,master,withdraw,850188,60589,789599,yes
+22/9/2016,sat,idfc_bank,#58662922213116A3,XXX XXXX XXXX 6780,saveings,master,withdraw,556855,84306,472549,yes
+6/6/2011,thu,sbi_bank,#48531197364883527,XXX XXXX XXXX 5931,current,master,deposit,852825,97753,950578,no
+22/6/2009,sun,sbi_bank,#858234A1455A3775,XXX XXXX XXXX 9210,current,master,withdraw,803426,32370,771056,yes
+1/10/2007,fri,sbi_bank,#461459979293A3373,XXX XXXX XXXX 5099,saveings,visa,withdraw,802941,92035,710906,yes
+12/3/2015,thu,idfc_bank,#5A57337A46299692,XXX XXXX XXXX 3583,current,rupuy,deposit,638934,82150,721084,no
+1/8/2018,sat,sbi_bank,#5658A41922228287,XXX XXXX XXXX 3849,current,rupuy,deposit,776432,22590,799022,no
+23/6/2012,sat,sbi_bank,#A78499627763758A7,XXX XXXX XXXX 5293,current,master,withdraw,109958,30560,79398,no
+7/1/2006,mon,idfc_bank,#A358669289A97443,XXX XXXX XXXX 1068,saveings,visa,withdraw,558462,44724,513738,no
